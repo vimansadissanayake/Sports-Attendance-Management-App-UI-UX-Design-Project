@@ -17,7 +17,8 @@ Clean, modern, and intuitive interface
 
 Designed for students, coaches, and sports administrators
 
-Tool : Figma 
+Tool 
+
 Figma : https://www.figma.com/design/e5WnvHHN0LlKl9W5Gtljdw/Sport-Attendence-App-Design?node-id=0-1&t=nDoNeGqA3xuZX7QZ-1
 
 Behance : https://www.behance.net/gallery/243283755/Sports-Attendance-Management-App-UIUX-Design
